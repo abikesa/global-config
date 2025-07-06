@@ -1,3 +1,8 @@
+```sh
+cat ~/.gitconfig
+```
+
+
 To fix the incorrect Git username/email showing up in your VS Code commits, you need to check and update your Git configuration. Here's how:
 
 ---
